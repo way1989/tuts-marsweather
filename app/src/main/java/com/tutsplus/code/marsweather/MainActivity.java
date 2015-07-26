@@ -37,7 +37,7 @@ public class MainActivity extends Activity {
 
 
     final static String
-            FLICKR_API_KEY = "",
+            FLICKR_API_KEY = "07e12151548e943fb36a086e3afb4905",
             IMAGES_API_ENDPOINT = "https://api.flickr.com/services/rest/?format=json&nojsoncallback=1&sort=random&method=flickr.photos.search&" +
                     "tags=mars,planet,rover&tag_mode=all&api_key=",
             RECENT_API_ENDPOINT = "http://marsweather.ingenology.com/v1/latest/",
